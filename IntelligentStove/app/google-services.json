@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737912353758",
+    "firebase_url": "https://intelligentstove.firebaseio.com",
+    "project_id": "intelligentstove",
+    "storage_bucket": "intelligentstove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737912353758:android:c35fb3b432efcbb9",
+        "android_client_info": {
+          "package_name": "com.stove.intelligentstove"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737912353758-gbv3bbccmhfhc85vfpuq425abdihb0u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stove.intelligentstove",
+            "certificate_hash": "e9311de1fe2e79f37c831a3972770d923078263d"
+          }
+        },
+        {
+          "client_id": "737912353758-j1js1500rq3v1i0quc8s2tueqckibi3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkcf52JYn3WVNxWucf91wt7jTV71sTgww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737912353758-j1js1500rq3v1i0quc8s2tueqckibi3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

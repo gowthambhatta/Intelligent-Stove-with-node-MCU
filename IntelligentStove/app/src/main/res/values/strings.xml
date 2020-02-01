@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intelligent Stove</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Intelligent Stove</string>
+    <string name="nav_header_subtitle">Being Better </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">About the Developers</string>
+    <string name="app_null"> </string>
+    <string name="app_about">About Intelligent Stove</string>
+    <string name="app_control">Stove Control</string>
+    <string name="about">   The Intelligent Stove is an IOT based project which aims at automating the operations of gas stove and notifies the user about status of the stove with the help of mobile application. The main problems using gas stove is the failure of gas leakage detection, overcooking and people forgetting to turn it off. To overcome these problems we have designed a system which detects gas leakage and rotten smell. The system consists of smoke sensor, gas sensor, buzzer and a motor attached to knob of the stove and a Wi-Fi module to connect to the mobile. It also has an automated knob which can be controlled with the help of mobile application. The knob is automatically turned off in case of gas leakage and the buzzer is activated and a notification is sent to the mobile so that quick action can be taken by the user. The knob can also be controlled through the application.</string>
+    <string name="about1">About the System</string>
+    <string name="app_environ">System Environment</string>
+    <string name="app_aboutus">About Us</string>
+</resources>
